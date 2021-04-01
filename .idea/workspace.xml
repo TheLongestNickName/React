@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8614f8df-c75a-4030-bd8c-4f4e8602e164" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1lJtTlrsCgBkHDaSEbv5Jd6bC6Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8614f8df-c75a-4030-bd8c-4f4e8602e164" name="Default Changelist" comment="" />
+      <created>1607327032109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607327032109</updated>
+      <workItem from="1607327033193" duration="17000" />
+      <workItem from="1607328210812" duration="305000" />
+      <workItem from="1607433438563" duration="246000" />
+      <workItem from="1608209117631" duration="1300000" />
+      <workItem from="1608213422993" duration="3006000" />
+      <workItem from="1608379378878" duration="22000" />
+      <workItem from="1610351872454" duration="3803000" />
+      <workItem from="1612790084542" duration="560000" />
+      <workItem from="1613201689841" duration="44000" />
+      <workItem from="1615635798716" duration="358000" />
+      <workItem from="1615636747600" duration="4304000" />
+      <workItem from="1615665212385" duration="4595000" />
+      <workItem from="1615670503805" duration="2643000" />
+      <workItem from="1615755246271" duration="106000" />
+      <workItem from="1616233072151" duration="4129000" />
+      <workItem from="1616308752688" duration="900000" />
+      <workItem from="1616353975791" duration="10285000" />
+      <workItem from="1616391175719" duration="2840000" />
+      <workItem from="1616870925883" duration="725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/hoc/withAuthRedirect.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
